@@ -18,4 +18,6 @@ Kraavide ja paisude vektorite olemasolu ei ole kohustuslik. Kraavide vektorkiht 
 Python faili avamisel QGis-i Python redaktoris tuleb vastavad parameetrid faili viidatud asukohtades kohandada. Faili lõpus on tuleb teha valik soovitud modelleerimise jada valimiseks.
 
 # dams_from_points.py
-Pythoni skript, mis tekitab digitud kraavidele punktide kohale etteantud pikkusega paisude joon-ruumikujud. Vajalik on kraavide joonte kiht ja paisude punktid kraavil. Paisude digimine punktidena on mugavam ja kiirem. Kui paisude kihil on väli "Pikkus", tekitatakse paisude joontekuju sellel väljal määratud pikkusega. Erineva pikkuse väärtusega punktide asukohas erineva pikkusega jooned. Paisude jooned paigutatakse konkreetsele punktile lähima kraaviga risti ja kraavi suhtes võrdselt kummalegi poole.
+Pythoni skript, mis tekitab digitud kraavidele punktide kohale etteantud pikkusega paisude joon-ruumikujud.
+
+Vajalik on kraavide joonte kiht ja paisude punktid kraavil. Paisude digimine punktidena on mugavam ja kiirem. Kui paisude kihil on väli "Pikkus", tekitatakse paisude joontekuju sellel väljal määratud pikkusega. Erineva pikkuse väärtusega punktide asukohas erineva pikkusega jooned. Paisude jooned paigutatakse konkreetsele punktile lähima kraaviga risti ja kraavi suhtes võrdselt kummalegi poole.
