@@ -1,4 +1,4 @@
-# Hüdroloogilise modelleerimine
+# Hüdroloogiline modelleerimine QGIS-is
 Pythoni skriptid SAGA hüdroloogilise modelleerimise töövoo automatiseerimiseks jm abivahendid.
 
 # saga_modelleerimine.py
